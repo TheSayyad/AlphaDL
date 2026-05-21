@@ -1,0 +1,52 @@
+{
+  "job_id": "api_6f57ce8077a34592a73d4f32",
+  "mode": "zip_split",
+  "file_url": "https://free-dl11.myalphadl.com/E2KIiWZtMblNa6SZbJJq4g/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 709255997,
+  "created_at_utc": "2026-05-21T11:51:25.320515+00:00",
+  "zip_folder": "jobs/api_6f57ce8077a34592a73d4f32/zip",
+  "zip_main_file": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z04",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z05",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z06",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z07",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_6f57ce8077a34592a73d4f32/zip/Mother.Mary.2026.720p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 48653389
+    }
+  ]
+}
